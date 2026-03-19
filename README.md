@@ -14,8 +14,8 @@
 - 👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ sleep? 👉 sleep
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdo0nasser&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo0nasser&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo0nasser&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo0nasser&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Languages and Tools
