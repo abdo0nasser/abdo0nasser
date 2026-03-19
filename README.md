@@ -42,19 +42,28 @@
 
 ### 🎓 [Mujedd - Graduation Project](https://github.com/intelli-gp/backend)
 
-Intelligent recommendation system with microservices architecture
+Intelligent Platofrm for styudents
 
-- **Tech:** TypeScript, NestJS, PostgreSQL, Docker, Microservices
-- RESTful APIs powering enterprise features
-- AI-driven recommendation microservice
+- **Tech:** TypeScript, NestJS, PostgreSQL, Docker, Microservices.
+- RESTful APIs powering enterprise features.
+- Recommendation system for everything.
 
 ### 🛍️ [E-commerce Application](https://github.com/Ahmed-Khaled24/Purchaseo)
 
 Full-stack e-commerce platform with secure authentication
 
-- **Tech:** Node.js, Express, MySQL, React, JavaScript
-- Secure authentication & RBAC implementation
-- Complete CRUD operations
+- **Tech:** Node.js, Express, MySQL, React, JavaScript.
+- Secure authentication & RBAC implementation.
+- Complete CRUD operations.
+
+### 📚 [Personal Library & Lending API](https://github.com/abdo0nasser/revision)
+
+Robust backend system for managing personal book collections and lending workflows.
+
+- **Tech:** TypeScript, NestJS, Prisma, PostgreSQL, Redis.
+- Secure JWT authentication & RBAC implementation.
+- Automated email notifications for auth activities.
+- High-performance data access with caching.
 
 ### 🤖 [Recommender System](https://github.com/intelli-gp/recommender-script)
 
