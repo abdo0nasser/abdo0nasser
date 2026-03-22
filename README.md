@@ -95,7 +95,7 @@ Content-based ML recommendation engine
     <img align="center" alt="Abd-El-Rahman | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/abd-el-rahman0nasser/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdo0nasser/" target="_blank">
     <img align="center" alt="Abd-El-Rahman | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
